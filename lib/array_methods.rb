@@ -32,6 +32,6 @@ if array [index] < y
 y = array [index]  
 end
 }
-x 
+y
 end
 
